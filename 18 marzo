@@ -21,7 +21,7 @@
 
     <hr> <!--linea-->
 
-    <a href="http://www.google.cl"target="_blank"> Ir a google</a> <!--links-->
+    <a href="http://www.google.cl"target="_blank"> Ir a google</a> <!-- mandar a otra pagina web por links-->
 
 </body>
 </html>
