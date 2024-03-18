@@ -1,0 +1,27 @@
+<!--control s para actualizar la pagina con los nuevos cambios-->
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi primera chamba</title> <!--Titulo de la pagina-->
+</head><!--cierre-->
+<body>
+    <p>Bienvenido a la chamba digital </p>
+    <h1>Mailo lovers</h1> <!--Titulo grande con h1-->
+    <h3>Página creada para los amantes de Mailo</h3> <!--subtitulo-->
+    <h6>ola</h6> <!--sub subtitulo-->
+    Ola <br> <!-- br es salto de linea--> ola <br>
+    <b> gato obeso de 4 años</b> <br> <!--texto en negrita-->
+    <u> gato hambriento</u> <br> <!-- texto con subrayado-->
+    <i> MAILO HORACIO</i>
+
+    <h1><u><i> Meow</i></u></h1>
+
+    <hr> <!--linea-->
+
+    <a href="http://www.google.cl"target="_blank"> Ir a google</a> <!--links-->
+
+</body>
+</html>
