@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Input</title>
+</head>
+<body>
+    <p>Mis opciones del sistema: </p>
+    <ol type ="square"> <!--square--> <!--SIMBOLOS QUE VA ANTES DE LAS OPCIONES, Se puede usar en miniscula, square(números)-->
+        <li>Opción 1</li>
+        <li>Opción 2</li>
+        <li>Opción 3</li>
+        <li>Opción 4</li>
+    </ol>
+
+    <!--poner imagen, tamaño de imagen, llevar a otro sitio presionando la imagen-->
+    <h2>Gato</h2>
+    <image src="gato.jpg" alt="Trulli" width="500" height="333">
+    <img src="gato.jpg" width="50%" height="50%"
+
+    <a href="http://google.cl" target="_blank"> <img src="gato.jpg"> </a>
+        <br> <br>
+
+    <!--crear tablas-->
+    <table border ="1">
+        <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Telefono</th>
+        </tr>
+        <tr>
+            <td>Luis</td>
+            <td>Diaz</td>
+            <td>56 9 1234 5678</td>
+        <tr></tr>
+            <td>Ignacia</td>
+            <td>Barraza</td>            <!--td: datos-->
+            <td>56 9 1234 5678</td>
+
+        </tr>
+    </table>
+    <p> comando para automatizar la creacion de la tabla</p>
+    table>tr*3>td*2 <!--tr es fila y td columnas-->
+
+</body>
+</html>
