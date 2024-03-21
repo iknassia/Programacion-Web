@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h1{ 
+            font-family: 'Franklin Gothic Medium';  /*esto sirve para que los h1(titulos) de la pagina queden con la misma fuente, color, etc */
+            color: burlywood;
+            text-transform: capitalize; /*esto sirve para que las iniciales de los h1 se cambien a mayuscula*/
+        }
+        body{
+            background-color: slategray;
+        }
+        p{
+            color: white;
+            font-weight: bold; /*grosor de la fuente*/
+            font-style: italic;
+            font-size: 15px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hola mundo CSS</h1>
+    <p>Hola mundo cmo estan</p>
+    <h1>ejemplo</h1>
+</body>
+</html>
