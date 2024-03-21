@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS en linea</title>
+</head>
+<body>
+    <p>Aplicar reglas de estilo "en linea"</p>
+    <h1 style="color:rebeccapurple; text-align: center;">Cambiar color</h1> <!-- style= "color:...."cambiar color de un texto, text-align: posición de un texto-->
+    <h1 style="color:rgb(15, 141, 163);">Cambiar color</h1>
+    <h1 style="color:#d3bcbc; font-family: Arial;">Cambiar color</h1> <!--font-family: estilo de texto-->
+
+</body>
+</html>
