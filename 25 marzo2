@@ -1,1 +1,19 @@
 
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adjuntar documento CSS</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="gato.png" type="image/x-icon"> <!--poner icon a la pagina-->
+</head>
+<body>
+    <h1 id="tituloPrincipal">Mi titulo modificado mediante id</h1> <!--es como una clave primaria; no se puede repetir. no se puede usar en mas de un elemento-->
+    <h1>Mi titulo modificado mediante class</h1> <!--se usa para abarcar mas de un elemento-->
+    <p class="formatoParrafo">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae debitis quidem impedit totam doloribus harum deleniti! Commodi molestias, eveniet ea nam dolore, nulla ipsum impedit voluptate neque inventore, aliquam porro.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae debitis quidem impedit totam doloribus harum deleniti! Commodi molestias, eveniet ea nam dolore, nulla ipsum impedit voluptate neque inventore, aliquam porro.</p>
+    <p class="formatoParrafo">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae debitis quidem impedit totam doloribus harum deleniti! Commodi molestias, eveniet ea nam dolore, nulla ipsum impedit voluptate neque inventore, aliquam porro.</p>
+
+</body>
+</html>
