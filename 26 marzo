@@ -1,1 +1,16 @@
-
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Otras caracteristicas</title>
+    <style>
+        img{float:right} /*poner imagen al lado derecho*/
+        p{text-align: justify;}
+    </style>
+</head>
+<body>
+    <p><img src="flor.png" alt="No disponible"></p>
+    >Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam eveniet expedita earum ut excepturi repudiandae amet id, iure asperiores recusandae consectetur sint dolorum ab? Nisi quos molestiae aut minus harum?</p>
+</body>  
+</html>
