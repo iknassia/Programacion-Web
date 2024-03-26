@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centrar y border</title>
+    <style>
+        .centrar{
+            width: 50%;
+            margin: auto;
+            border: 5px solid red; /*poner un borde a un texto o elemento. agregar color al borde*/
+            padding: 5px;
+            text-align: justify; /*justificar el texto dentro de la caja*/
+        }
+        .lbl{border: 5px solid blue; margin: 10px }
+    </style>
+</head>
+<body>
+    <div class="centrar">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas ipsam distinctio, fugit dolores voluptate aperiam accusamus pariatur voluptatem nam ipsa, quae sed sapiente? Odio ipsa labore laborum ut hic consequuntur.
+    </div>
+    <label class="label1 lbl">1111</label> <br><br>
+    <label class="label2 lbl">2222</label>
+
+</body>
+</html>
